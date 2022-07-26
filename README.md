@@ -4,7 +4,7 @@ This database is a compilation of age-structured abundance, weight, and fishing 
 Subsets of these data were analysed in the following publications:
 
 1. Charbonneau, J. A., Keith, D. M., and Hutchings, J. A. 2018. Trends in the size and age structure of marine fishes. ICES Journal of Marine Science. 76(4):938-945.
-2. Charbonneau, J. A., Keith, D. M., MacNeil, M.A., and Hutchings, J. A. 2020. Effects of fishing mortality on the age structure of marine fishes. Submitted to Canadian Journal of Fisheries and Aquatic Sciences. (accepted)
+2. Charbonneau, J. A., Keith, D. M., MacNeil, M.A., and Hutchings, J. A. 2022. Effects of fishing mortality on the age structure of marine fishes. Submitted to Canadian Journal of Fisheries and Aquatic Sciences. (accepted)
 
 This repository contains the following sections 
 -	A master file containing key information about the stocks in the database 
