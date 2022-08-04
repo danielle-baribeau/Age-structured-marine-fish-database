@@ -21,7 +21,7 @@
 ## cor: The correlation coefficient between fm and age time series -1 <= cor <= 1
 ## lag: The lag between the fm and age time series, negative indicates that fm leads age, positive is age leading fm.
 
-#4: ts  Specity Time series length 
+#4: ts  Specify Time series length 
 ## years: Number of years in the ARIMA time series that you will be sampled (default = 1000)
 ## start.year: The first year from the  ARIMA time series to sample from (avoid going too close to the start)
 ## final.ts.len:  Length of final time series.
@@ -83,7 +83,7 @@ sim.years <- 200
 syear <- 100 
 ts.len <- 38 # chg for last 4 sim
 n.sims <- 10000 
-real.cor <- NA
+obs.cor <- NA
 dat <- NULL
 
 fm.var <- 0.01
@@ -99,11 +99,11 @@ for(i in 1:n.sims)
                       arima= list(proc = proc,p=p,d=d,q=q,cor =cor,lag = lag),
                       ts = list(years=sim.years,start.year =syear, final.ts.len = ts.len))
   tmp <- ccf(dat[[i]]$age.ts,dat[[i]]$fm.ts,plot=F)
-  real.cor[i] <- tmp$acf[tmp$lag == lag]
+  obs.cor[i] <- tmp$acf[tmp$lag == lag]
 }
-# Make sure what you put in is what you get out, real.cor should be the cor you specified with some uncertainty around it
-hist(real.cor)
-mean(real.cor)
+# Checking results : obs.cor should be the cor you specified with some uncertainty  
+hist(obs.cor)
+mean(obs.cor)
 require(ggplot2)
 ggplot(dat[[1]]) + geom_line(aes(x=year,y = age.ts)) + geom_line(aes(x=year,y=fm.ts)) + scale_y_log10()
 
