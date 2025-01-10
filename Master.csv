@@ -51,29 +51,29 @@
 50,Pleuronectes,platessa,ICES-WGBFAS,ICES-WGBFAS_platessa_BS 21-23,0,1,0,0.37,WGBFAS report 2015.pdf,,,,,,,,,
 51,Sprattus,sprattus,ICES-WGBFAS,ICES-WGBFAS_sprattus_BS 22-32,1,1,1,0.26,WGBFAS report 2015.pdf,,,,,,,,,
 52,Solea,solea,ICES-WGBFAS,ICES-WGBFAS_ solea_NS IIIa 22-24,1,1,1,0.23,WGBFAS report 2015.pdf,,,,,,,,,
-53,Clupea,harengus,ICES-NWWG,ICES-NWWG_harengus_ICE-summer,0,1,1,0.22,NWWG report 2016.pdf,,,,,,,,,
-54,Pollachius,virens,ICES-NWWG,ICES-NWWG_virens_FA5a,1,1,0,NA,NWWG report 2016.pdf,,,,,,,,,
-55,Pollachius,virens,ICES-NWWG,ICES-NWWG_virens_FA5b,1,1,1,0.3,NWWG report 2016.pdf,,,,,,,,,
-56,Melanogrammus,aeglefinus,ICES-NWWG,ICES-NWWG_aeglefinus_ICE5a,1,1,1,NA,NWWG report 2016.pdf,,,,,,,,,
-57,Melanogrammus,aeglefinus,ICES-NWWG,ICES-NWWG_aeglefinus_FA5b,1,1,0,0.25,NWWG report 2016.pdf,,,,,,,,,
-58,Gadus,morhua,ICES-NWWG,ICES-NWWG_morhua_ICE5a,1,1,1,NA,NWWG report 2016.pdf,,,,,,,,,
-59,Gadus,morhua,ICES-NWWG,ICES-NWWG_morhua_FAPL5b1,1,1,1,0.32,NWWG report 2016.pdf,,,,,,,,,
-60,Ammodytes,dubius,ICES-HAWG,ICES-HAWG_dubius_NS,1,1,1,NA,HAWG report 2016.pdf,,,,,,,,,
-61,Clupea,harengus,ICES-HAWG,ICES-HAWG_harengus_CS 6a (N),0,1,0,NA,HAWG report 2016.pdf,,,,,,,,,
-62,Clupea,harengus,ICES-HAWG,"ICES-HAWG_harengus_CS6.a (S), 7b-c",0,1,0,NA,HAWG report 2016.pdf,,,,,,,,,
-63,Clupea,harengus,ICES-HAWG,"ICES-HAWG_harengus_CS 6a,7b,7c",1,1,1,0.16,HAWG report 2016.pdf,,,,,,,,,
-64,Clupea,harengus,ICES-HAWG,ICES-HAWG_harengus_WBS 22-24,1,1,1,0.32,HAWG report 2016.pdf,,,,,,,,,
-65,Clupea,harengus,ICES-HAWG,"ICES-HAWG_harengus_ NS-IV 3a,7d",1,1,1,0.33,HAWG report 2016.pdf,,,,,,,,,
-66,Sebastes,norvegicus,ICES-AFWG,"ICES-AFWG_norvegicus_DEEP1,2",0,1,0,NA,AFWG report 2017.pdf,,,,,,,,,
-67,Sebastes,mentella,ICES-AFWG,"ICES-AFWG_mentella_DEEP 1,2",0,1,0,NA,AFWG report 2017.pdf,,,,,,,,,
-68,Pollachius,virens,ICES-AFWG,"ICES-AFWG_virens_NEA 1,2",1,0,1,NA,AFWG report 2017.pdf,,,,,,,,,
-69,Melanogrammus,aeglefinus,ICES-AFWG,"ICES-AFWG_aeglefinus_NEA 1,2",1,1,1,0.35,AFWG report 2017.pdf,,,,,,,,,
-70,Gadus,morhua ,ICES-AFWG,"ICES-AFWG_ morhua _NEA 1,2",1,1,1,0.4,AFWG report 2017.pdf,,,,,,,,,
-71,Gadus,morhua,ICES-AFWG,"ICES-AFWG_morhua_COASTNOR 1,2",1,1,1,NA,AFWG report 2017.pdf,,,,,,,,,
-72,Melanogrammus,aeglefinus,ICES-AFWG,ICES-AFWG_aeglefinus_IS7bc-ek,1,0,1,NA,WGSCE report 2017.pdf,,,,,,,,,
-73,Trachurus,trachurus,ICES-WGHANSA,ICES-WGHANSA_trachurus_SP9a,0,1,0,0.11,WGHANSAreport 2017.pft,,,,,,,,,
-74,Sardina,pilchardus,ICES-WGHANSA,ICES-WGHANSA_pilchardus_SP8abd,1,1,0,NA,WGHANSAreport 2017.pft,,,,,,,,,
-75,Engraulis,mordax,ICES-WGHANSA,ICES-WGHANSA_mordax_SP9a,0,1,0,NA,WGHANSAreport 2017.pft,,,,,,,,,
+53,Clupea,harengus,ICES-NWWG,ICES-NWWG_harengus_ICE-summer,0,1,1,0.22,NWWG report 2016.pdf,Table 11.2.2.1,Table 11.2.2.2,Table 11.3.2.1,Table 11.2.2.3,Table 11.3.2.4,N/A,Table 11.3.2.5,NWWG_report_2023.pdf,2024 report did not have FM
+54,Pollachius,virens,ICES-NWWG,ICES-NWWG_virens_FA5a,1,1,0,NA,NWWG report 2016.pdf,Table 8.4,Table 8.5,Page 216,Table 8.6,Table 8.10,N/A,Table 8.8,NWWG_report_2023.pdf,Is this Iceland Grounds saithe? Inputted information for IG5a; could not find FA5a in original or subsequent documents; 2024 version did not have FM
+55,Pollachius,virens,ICES-NWWG,ICES-NWWG_virens_FA5b,1,1,1,0.3,NWWG report 2016.pdf,Table 6.2.2.2,Table 6.2.3.1,Table 6.7.1 (?),Table 6.2.4.1,Table 6.5.1,Table 6.5.3,Table 6.5.3,NWWG_report_2023.pdf,Section pending in 2024 report
+56,Melanogrammus,aeglefinus,ICES-NWWG,ICES-NWWG_aeglefinus_ICE5a,1,1,1,NA,NWWG report 2016.pdf,Page 360,Page 364,Page 337,Page 365,N/A,N/A,Page 370,NWWG_report_2023.pdf,No FM info in reports after 2020
+57,Melanogrammus,aeglefinus,ICES-NWWG,ICES-NWWG_aeglefinus_FA5b,1,1,0,0.25,NWWG report 2016.pdf,Table 5.4,Table 5.5,Page 112 ,Table 5.6,Table 5.11,N/A,Table 5.13,NWWG_report_2022.pdf,Section pending in 2024 report; no M in 2023 report
+58,Gadus,morhua,ICES-NWWG,ICES-NWWG_morhua_ICE5a,1,1,1,NA,NWWG report 2016.pdf,Table 9.4,Table 9.7,Page 282,Table 9.8,Table 9.14,N/A,Table 9.16,NWWG_report_2023.pdf,No detail in 2024 report
+59,Gadus,morhua,ICES-NWWG,ICES-NWWG_morhua_FAPL5b1,1,1,1,0.32,NWWG report 2016.pdf,Table 4.2.6,Table 4.2.7,N/A,Table 4.2.8,Table 4.6.2,Table 4.6.4,Table 4.6.4,NWWG_report_2023.pdf,M not included past 2020
+60,Ammodytes,dubius,ICES-HAWG,ICES-HAWG_dubius_NS,1,1,1,NA,HAWG report 2016.pdf,Table 10.2.2,Table 10.2.3,Table 10.6.1,Page 664,Page 697,N/A,Table 10.6.4,HAWG_report_2024.pdf,"Now division 3a and subarea 4 (Skagerrak, Kattegat and North Sea); different latin name - is it Sprattus sprattus?"
+61,Clupea,harengus,ICES-HAWG,ICES-HAWG_harengus_CS 6a (N),0,1,0,NA,HAWG report 2016.pdf,Table 4.2.2,Table 4.2.3,Table 4.4.3.1,Table 4.4.2.1,N/A,N/A,N/A,HAWG_report_2024.pdf,Could not find FM.x in original document
+62,Clupea,harengus,ICES-HAWG,"ICES-HAWG_harengus_CS6.a (S), 7b-c",0,1,0,NA,HAWG report 2016.pdf,Table 5.2.1.1,Table 5.4.1.2,Table 5.6.2.3,Table 5.3.1.3,N/A,N/A,Table 5.6.2.3.1a,HAWG_report_2024.pdf,Could not find FM.x in original document
+63,Clupea,harengus,ICES-HAWG,"ICES-HAWG_harengus_CS 6a,7b,7c",1,1,1,0.16,HAWG report 2016.pdf,Tables 4.6.1a AND 4.6.1b,Table 4.6.3,Table 4.6.4,Table 4.6.5,Table 4.6.13,Table 4.6.12,Table 4.6.12,HAWG_report_2020.pdf,Are FM.x for above two stocks reported in this section?
+64,Clupea,harengus,ICES-HAWG,ICES-HAWG_harengus_WBS 22-24,1,1,1,0.32,HAWG report 2016.pdf,Tables 3.6.1a-d,Table 3.6.3,Table 3.6.4,Table 3.6.5,Table 3.6.12a,Table 3.6.11,Table 3.6.11,HAWG_report_2024.pdf,Now also includes 3a; this is a multi-fleet assessment
+65,Clupea,harengus,ICES-HAWG,"ICES-HAWG_harengus_ NS-IV 3a,7d",1,1,1,0.33,HAWG report 2016.pdf,Table 2.6.2.1,Table 2.6.2.3,Table 2.6.2.4,Table 2.6.2.5,Table 2.6.2.13,Table 2.6.2.12,Table 2.6.2.12,HAWG_report_2020.pdf,2024 report had no FM
+66,Sebastes,norvegicus,ICES-AFWG,"ICES-AFWG_norvegicus_DEEP1,2",0,1,0,NA,AFWG report 2017.pdf,Table 7.5,Table 7.6 (?),No M (see page 250),Figure 7.6b,Table 7.7,Table 7.8,Table 7.8,AFWG_report_2024.pdf,Could not find M in any reports past 2020
+67,Sebastes,mentella,ICES-AFWG,"ICES-AFWG_mentella_DEEP 1,2",0,1,0,NA,AFWG report 2017.pdf,Table 6.8 AND 6.9,Tables 6.12 AND 6.13,Page 313,Table 6.14,N/A (FM for 12-18 and 19+ per year is given in Table 6.21),Table 6.21,Table 6.21,AFWG_report_2021.pdf,No assessment of this stock in 2024
+68,Pollachius,virens,ICES-AFWG,"ICES-AFWG_virens_NEA 1,2",1,0,1,NA,AFWG report 2017.pdf,Table 5.3,Table 5.5,Page 140,Table 5.6,Table 5.10,Table 5.12,Table 5.12,AFWG_report_2024.pdf,
+69,Melanogrammus,aeglefinus,ICES-AFWG,"ICES-AFWG_aeglefinus_NEA 1,2",1,1,1,0.35,AFWG report 2017.pdf,Table 4.4 ,Table 4.6,Page 224,Table 4.7,Table 4.12,N/A,Table 4.11,AFWG_report_2021.pdf,No assessment of this stock in 2024
+70,Gadus,morhua ,ICES-AFWG,"ICES-AFWG_ morhua _NEA 1,2",1,1,1,0.4,AFWG report 2017.pdf,Table 3.6,Table 3.9,Table 3.17,Table 3.11,Table 3.15,Table 3.18,Table 3.18,AFWG_report_2021.pdf,No assessment of this stock in 2024
+71,Gadus,morhua,ICES-AFWG,"ICES-AFWG_morhua_COASTNOR 1,2",1,1,1,NA,AFWG report 2017.pdf,Table 2.2.3c,Table 2.2.13,Table 2.2.14,Table 2.2.11,Table 2.2.17,Table 2.2.17,,AFWG_report_2024.pdf,
+72,Melanogrammus,aeglefinus,ICES-AFWG,ICES-AFWG_aeglefinus_IS7bc-ek,1,0,1,NA,WGSCE report 2017.pdf,Tables 9.4 AND 9.5,Figure 9.9,Table 4 (stock annex),Table 2 (stock annex),Table 9.7,N/A,Table 9.9,WGSCE_report_2023.pdf,
+73,Trachurus,trachurus,ICES-WGHANSA,ICES-WGHANSA_trachurus_SP9a,0,1,0,0.11,WGHANSAreport 2017.pft,Table 5.2.4.1,Table 5.2.5.1,Page 247,Page 247,N/A (average FM per year in Figure 6.3.2.3),N/A,Table 5.4.1.2,WGHANSA_report_2024.pdf,
+74,Sardina,pilchardus,ICES-WGHANSA,ICES-WGHANSA_pilchardus_SP8abd,1,1,0,NA,WGHANSAreport 2017.pft,Tables 6.2.1.1 AND 6.2.2.1.4,Tables 6.2.1.1 AND 6.2.2.1.4,,Table 6.2.2.1.5,N/A (average FM per year in Table 6.3.2.1),N/A,Table 6.3.2.1,WGHANSA_report_2024.pdf,
+75,Engraulis,mordax,ICES-WGHANSA,ICES-WGHANSA_mordax_SP9a,0,1,0,NA,WGHANSAreport 2017.pft,Table 4.3.5.2.3,Table 4.3.6.2 (?),Page 20 (stock annex),Page 139,N/A (average FM per yeari n Table 4.6.1.2),N/A,Table 4.6.1.2,WGHANSA_report_2024.pdf AND Anchovy_Stock_Annex_SP9a.pdf,For southern portion of 9a?
 76,Merlangius,merlangus,ICES-WGSCE,ICES-WGCSE_merlangus_CS7a,1,0,1,0.219,WGSCE report 2017.pdf,Table 38.4 (?),Figure 38.5,Page 1288,Page 1289,Table 38.8,N/A,N/A,WGCSE_report_2024.pdf,
 77,Merlangius,merlangus,ICES-WGSCE,ICES-WGSCE_merlangus_CS27.6a,1,1,0,0.18,WGSCE report 2017.pdf,Table 36.5,Table 36.9,Table 36.10,Page 1189,Table 36.15,N/A,Table 36.16,WGCSE_report_2024.pdf,
 78,Solea,solea,ICES-WGSCE,ICES-WGSCE_solea_IS7jk,0,1,0,NA,WGSCE report 2017.pdf,Table 33.2,Table 7.14.3,Page 1179,Page 1179,Page 1191-1192,N/A,Table 33.6,WGCSE_report_2019.pdf,
@@ -83,11 +83,11 @@
 82,Pleuronectes,platessa,ICES-WGSCE,ICES-WGSCE_platessa_CS7f-g,0,1,0,1,WGSCE report 2017.pdf,Table 26.5(?),Table 26.9,Page 838,Page 839,Table 26.14,N/A,N/A,WGCSE_report_2021.pdf,
 83,Pleuronectes,platessa,ICES-WGCSE,ICES-WGCSE_platessa_IS7e,1,1,1,NA,WGSCE report 2017.pdf,Table 25.2 (?),Table 25.4,Page 773 (described in Stock Annex),Page 773 (described in Stock Annex),Table 25.6,N/A,Table 25.8,WGCSE_report_2021.pdf,
 84,Pleuronectes,platessa,ICES-WGCSE,ICES-WGCSE_ platessa_IS27.7a,1,1,1,0.165,WGSCE report 2017.pdf,Table 22.9,Table 22.8,"Unclear in text, starts on page 703","Unclear in text, starts on page 704",Table 22.12,Table 22.13,Table 22.14,WGCSE_report_2024.pdf,
-85,Melanogrammus,aeglefinus,ICES-WGCSE,ICES-WGCSE_aeglefinus_CS7a,0,1,0,0.27,WGSCE report 2017.pdf,,,,,,,,,
-86,Melanogrammus,aeglefinus,ICES-WGCSE,ICES-WGCSE_aeglefinus_ROCK6b,1,1,1,0.2,WGSCE report 2017.pdf,,,,,,,,,
-87,Gadus,morhua,ICES-WGCSE,ICES-WGCSE_ morhua_CS7e-k,1,1,1,0.353,WGCSE report 2017.pdf,,,,,,,,,
-88,Gadus,morhua,ICES-WGCSE,ICES-WGCSE_morhua_IS7a,1,1,1,0.309,WGCSE report 2017.pdf,,,,,,,,,
-89,Gadus,morhua,ICES-WGCSE,ICES-WGCSE_morhua_NS6a,1,1,0,0.167,WGCSE report 2017.pdf,,,,,,,,,
+85,Melanogrammus,aeglefinus,ICES-WGCSE,ICES-WGCSE_aeglefinus_CS7a,0,1,0,0.27,WGSCE report 2017.pdf,Table 7.4 AND 7.5,Figure 6.3.10,Table 6.3.3 (stock annex),Table 6.3.4 (stock annex),Table 7.7,N/A,Table 7.9,WGCSE_report_2024.pdf AND Haddock_Stock_Annex_7a.pdf,
+86,Melanogrammus,aeglefinus,ICES-WGCSE,ICES-WGCSE_aeglefinus_ROCK6b,1,1,1,0.2,WGSCE report 2017.pdf,Table 6.3.5,Table 6.3.9 (?),Page 197,Page 197,Table 6.4.4,N/A,Table 6.4.5,WGCSE_report_2024.pdf,
+87,Gadus,morhua,ICES-WGCSE,ICES-WGCSE_ morhua_CS7e-k,1,1,1,0.353,WGCSE report 2017.pdf,Table 5.2,Table 5.4,Page 8 ,Page 7 ,Table 5.7,N/A,Table 5.9,WGCSE_report_2024.pdf AND Cod_Stock_Annex_7e-k.pdf,
+88,Gadus,morhua,ICES-WGCSE,ICES-WGCSE_morhua_IS7a,1,1,1,0.309,WGCSE report 2017.pdf,Table 9,Table 10 (?),Section B.2.2 (stock annex),Table 12 ,N/A (average FM per year in Table 11),N/A,Table 11,WGCSE_report_2024.pdf AND Cod_Stock_Annex_7a.pdf,
+89,Gadus,morhua,ICES-WGCSE,ICES-WGCSE_morhua_NS6a,1,1,0,0.167,WGCSE report 2017.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,No new assessments since 2017,
 90,Trisopterus,esmarkii,ICES-WGNSSK,"ICES-WGNSSK_esmarkii_NS 4, 3aN",1,0,1,NA,WGNSSK report 2017.pdf,Table 12.2.4,Table 12.2.6,Table 12.2.6,Table 12.2.6,Table 12.3.4,Table 12.3.6,Table 12.3.6,WGNSSK_report_2024.pdf,
 91,Pleuronectes,platessa,ICES-WGNSSK,ICES-WGNSSK_platessa_NS 7d,1,1,1,0.25,WGNSSK report 2017.pdf,Table 14.2.3.1 (SD?),Table 14.2.4.3,Page 944,Page 944,Table 14.3.1.4,N/A,Table 14.3.1.6,WGNSSK_report_2024.pdf,
 92,Pleuronectes,platessa,ICES-WGNSSK,"ICES-WGNSSK_ platessa_NS 4,20",1,1,1,0.21,WGNSSK report 2017.pdf,Table 13.2.4,Table 13.2.6,Table 3.2.10,Table 3.2.10,Table 13.3.3,N/A,Table 13.3.1,WGNSSK_report_2024.pdf,
@@ -96,8 +96,17 @@
 95,Solea,solea,ICES-WGNSSK,ICES-WGNSSK_solea_NS 4,0,1,0,0.2,WGNSSK report 2017.pdf,Table 17.2 (?),Table 17.6,Table 17.7,Table 17.7,Table 17.11,N/A,Table 17.13,WGNSSK_report_2024.pdf,
 96,Merlangius,merlangus,ICES-WGNSSK,ICES-WGNSSK_merlangus_NS 4-7d,1,1,1,0.15,WGNSSK report 2017.pdf,Table 23.4,Table 23.13,Table 23.15,Table 23.14a,Table 23.17,Table 23.19,Table 23.19,WGNSSK_report_2024.pdf,
 97,Scopthalmus,maximus,ICES-WGNSSK,ICES-WGNSSK_maximus_NS 4,1,1,0,NA,WGNSSK report 2017.pdf,Table 21.18,Table 21.7,Table 21.8,Table 21.8,Table 21.16,Table 21.14,Table 21.14,WGNSSK_report_2024.pdf,
-98,Melanogrammus,aeglefinus,ICES-WGNSSK,"ICES-WGNSSK_aeglefinus_NS 4-3a20,6a",1,1,1,NA,WGNSSK report 2016.pdf,,,,,,,,,
+98,Melanogrammus,aeglefinus,ICES-WGNSSK,"ICES-WGNSSK_aeglefinus_NS 4-3a20,6a",1,1,1,NA,WGNSSK report 2016.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Is this the same as stock below? Could not find in 2024 version,
 99,Melanogrammus,aeglefinus,ICES-WGNSSK,ICES-WGNSSK_aeglefinus_NS 4-6a-20,1,1,1,0.19,WGNSSK report 2017.pdf,Table 8.2.6,Table 8.2.16,Table 8.2.17 (missing from table annex),Table 8.2.18,Table 8.3.4,Table 8.3.6,Table 8.3.6,WGNSSK_report_2024.pdf,
 100,Gadus,morhua,ICES-WGNSSK,"ICES-WGNSSK_morhua_4-7d,20",1,1,1,0.31,"4_7d,20 Gadus morhua.pdf",Table 4.10,Table 4.11,Table 4.13,Table 4.12,Table 4.8,Table 4.14,Table 4.14,WGNSSK_report_2024.pdf,Now includes 6a
 101,Micromesistius,poutassou,ICES-WGWIDE,"ICES-WGWIDE_ poutassou_NEA 1-9,12,14",1,1,1,0.32,WGWIDE report 2018.pdf,Table 2.3.3.1 (SD?),Table 2.3.4.1 (SD?),Table 2.3.5.1,Table 2.3.5.1,Table 2.4.1.3,Table 2.4.1.5,Table 2.4.1.5,WGWIDE_report_2023.pdf,
 102,Clupea,harengus,ICES-WGWIDE,"ICES-WGWIDE_ harengus_NEA 1,2,5,4a,14a",1,1,1,0.157,WGWIDE report 2018.pdf,Table 4.4.3.1 (SD?),Table 4.4.4.2,Page 196,Table 4.4.5.1,Table 44.5.1.3,N/A,Table 4.5.1.4,WGWIDE_report_2023.pdf,
+,,,,,,,,,,,,,,,,,,
+NEW ATLANTIC STOCKS,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+NEW PACIFIC STOCKS,,,,,,,,,,,,,,,,,,
