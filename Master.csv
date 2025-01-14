@@ -9,48 +9,48 @@
 8,Clupea,harengus,DFO-GSL,DFO-GSL_harengus_4T-Fall,1,1,1,NA,4T Clupea harengus.pdf,Tables 6 (fixed gear) and 10 (mobile gear) (SD?),Tables 7 (fixed gear) and 11 (mobile gear) (SD?),Figure 39,Page 10,"Tables 31, 32, 33 and 34","Tables 23, 25, 27 and 29",N/A,4T_Clupea_harengus_2022.pdf,
 9,Clupea,harengus,DFO-MAR,DFO-MAR_harengus_4VWX,0,1,0,NA,4VWX Clupea harengus.pdf,Table 21A (SD?),Table 22 (SD?),Page 17,Figure 41A-C,N/A,N/A,N/A,4VWX_Clupea_harengus_2020.pdf,
 10,Scomber,scombrus,DFO-QC,DFO-QC_scombrus_4T,1,1,1,NA,4T Scomber scombrus.pdf,Table S8 (SD?),Table S10,Page 9,Table S12,Table S17,N/A,Table S15,4T_Scomber_scombrus_2023.pdf,
-11,Gadus,morhua,NEFSC-TRAC-CERT,NEFSC-TRAC-CERT_morhua_GB,1,1,1,0.18,GB 5Ze Gadus morhua.pdf,,,,,,,,,
-12,Gadus,morhua,NEFSC-SAW,NEFSC-SAW_morhua_GOM,1,1,1,0.18,GOM Gadus morhua.pdf,,,,,,,,,
-13,Gadus,morhua,NEFSC-GARMIII,NEFSC-GARMIII_morhua_GB,1,1,1,0.18,5Z Gadus morhua.pdf,,,,,,,,,
-14,Melanogrammus,aeglefinus,NEFSC-GARMIII,NEFSC-GARMIII_aeglefinus_5Y,1,1,1,0.46,GOM Melanogrammus aeglefinus,,,,,,,,,
-15,Melanogrammus,aeglefinus,CERT-TRAC,CERT-TRAC_aeglefinus_GB,1,1,1,0.39,GB Melanogrammus aeglefinus.pdf,,,,,,,,,
-16,Scomber,scombrus,NEFSC,NEFSC_scombrus_NWA,1,1,1,0.26,NWA Scomber scombrus.pdf,,,,,,,,,
-17,Stenotomus,chrysops,NEFSC-SAW,NEFSC-SAW_chrysops_USATL,1,1,1,0.177,USATL Stenotomus chrysops,,,,,,,,,
-18,Pollachius,virens,NEFSC,NEFSC_ virens_5YZ,1,1,1,0.25,GB Pollachius virenus,,,,,,,,,
-19,Hippoglossoides,platessoides,NEFSC,NEFSC_platessoides_5YZ,1,1,1,0.19,GOM  Hippoglossoides platessoides 2019.pdf,,,,,,,,,
-20,Pseudopleuronectes,americanus,NEFSC,NEFSC_ americanus_5Z,1,1,1,0.42,GB Pseudopleuronectes americanus.pdf,,,,,,,,,
-21,Limanda,ferruginea,DFO-NEFSC,DFO-NEFSC_ferruginea_GB,0,1,0,0.254,GB Limada ferrugina.pdf,,,,,,,,,
-22,Limanda,ferruginea,NEFSC-GARMIII,"NEFSC-GARMIII_ferruginea_SNE, MA",1,1,1,0.254,SNE MA Limada ferrugina.pdf,,,,,,,,,
-23,Urophycis,tenuis,NEFSC-GARMIII,"NEFSC-GARMIII_tenuis_GOM, GB",1,1,1,0.13,"GOM,GB Urophycis tenuis.pdf ",,,,,,,,,
-24,Paralichthys,dentatus,NEFSC-GARMIII,NEFSC-GARMIII_dentatus_MA,1,1,1,0.309,North Car Paralichthys dentatus.pdf,,,,,,,,,
-25,Morone,saxatilis,NEFSC-GARMIII,"NEFSC-GARMIII_saxatilis_GOM, CHATT",1,1,1,NA,GOM CHATT Morone saxatilis.pdf,,,,,,,,,
-26,Glyptocephalus,cynoglossus,NEFSC-GARMIII,NEFSC-GARMIII_cynoglossus_5Y,1,1,1,0.2,"MAINE, NH Glyptocephalus cynoglossus.pdf",,,,,,,,,
-27,Gadus,macrocephalus,AFSC,AFSC_macrocephalus_GOA,1,0,0,0.69,GOA Gadus macrocephalus.pdf,,,,,,,,,
-28,Gadus,macrocephalus,AFSC,AFSC_macrocephalus_AL to (AI),1,0,1,0.34,AI Gadus macrocephalus.pdf,,,,,,,,,
-29,Gadus,macrocephalus,AFSC,AFSC_ macrocephalus_BSAI,1,1,1,0.34,ESB Gadus macrocephalus.pdf,,,,,,,,,
-30,Theragra,chalcogramma,AFSC,AFSC_chalcogramma_EBS,1,1,0,0.543,ESB Theragra chalcogramma.pdf,,,,,,,,,
-31,Theragra,chalcogramma,AFSC,AFSC_chalcogramma_GOA,1,1,0,0.285,GOA Theragra chalcogramma.pdf,,,,,,,,,
-32,Theragra,chalcogramma,AFSC,AFSC_chalcogramma_AI,1,1,0,0.34,AI Theragra chalcogrammus.pdf,,,,,,,,,
-33,Pleurogrammus,monopterygius,AFSC,AFSC_monopterygius_BSAI,1,1,0,0.468,BSAI Pleurogrammus monopterygius.pdf,,,,,,,,,
-34,Sebastes,alutus,AFSC,AFSC_alutus_BSAI,1,0,0,0.074,BSAI Sebastes alutus.pdf,,,,,,,,,
-35,Atheresthes,stomias,AFSC,AFSC_stomias_BSAI-Females,1,0,0,0.29,BSAI Atheresthes stomas.pdf,,,,,,,,,
-36,Atheresthes,stomias,AFSC,AFSC_stomias_BSAI-Males,1,0,0,0.29,BSAI Atheresthes stomas.pdf,,,,,,,,,
-37,Pleuronectes,quadrituberculatus,AFSC,AFSC_quadrituberculatus_BSAI-Females,1,0,0,0.19,BSAI Pleuronectes quadrituberculatus.pdf,,,,,,,,,
-38,Pleuronectes,quadrituberculatus,AFSC,AFSC_quadrituberculatus_BSAI-males,1,0,0,0.19,BSAI Pleuronectes quadrituberculatus.pdf,,,,,,,,,
-39,Lepidopsetta,polyxystra,AFSC,AFSC_polyxystra_EEBSAI-Females,1,1,1,0.26,BSAI Lepidopsetta polyxystra.pdf,,,,,,,,,
-40,Lepidopsetta,polyxystra,AFSC,AFSC_polyxystra_EEBSAI-Males,1,1,1,0.26,BSAI Lepidopsetta polyxystra.pdf,,,,,,,,,
-41,Limanda,aspera,AFSC,AFSC_ aspera_EEBSAI,1,1,1,0.13,BSAI Limada aspera.pdf,,,,,,,,,
-42,Gadus,morhua,ICES-WGBFAS,ICES-WGBFAS_morhua_BS,0,1,0,NA,BS gadus morhua.pdf,,,,,,,,,
-43,Gadus,morhua,ICES-WGBFAS,ICES-WGBFAS_morhua_BS 25-32,0,1,0,NA,WGBFAS report 2015.pdf,,,,,,,,,
-44,Gadus,morhua,ICES-WGBFAS,"ICES-WGBFAS_morhua_WBS,25-32",1,1,1,NA,BS gadus morhua.pdf,,,,,,,,,
-45,Clupea,harengus,ICES-WGBFAS,"ICES-WGBFAS_ harengus_BS 25-29,32",1,1,1,0.22,WGBFAS report 2015.pdf,,,,,,,,,
-46,Clupea,harengus,ICES-WGBFAS,ICES-WGBFAS_harengus_BS 28.1,1,1,1,0.32,WGBFAS report 2015.pdf,,,,,,,,,
-47,Clupea,harengus,ICES-WGBFAS,ICES-WGBFAS_harengus_BS 30,0,0,0,0.15,WGBFAS report 2015.pdf,,,,,,,,,
-48,Clupea,harengus,ICES-WGBFAS,ICES-WGBFAS_harengus_BS 31,0,1,0,NA,WGBFAS report 2015.pdf,,,,,,,,,
-49,Pleuronectes,platessa,ICES-WGBFAS,ICES-WGBFAS_platessa_BS 24-32,0,1,0,NA,WGBFAS report 2015.pdf,,,,,,,,,
-50,Pleuronectes,platessa,ICES-WGBFAS,ICES-WGBFAS_platessa_BS 21-23,0,1,0,0.37,WGBFAS report 2015.pdf,,,,,,,,,
-51,Sprattus,sprattus,ICES-WGBFAS,ICES-WGBFAS_sprattus_BS 22-32,1,1,1,0.26,WGBFAS report 2015.pdf,,,,,,,,,
-52,Solea,solea,ICES-WGBFAS,ICES-WGBFAS_ solea_NS IIIa 22-24,1,1,1,0.23,WGBFAS report 2015.pdf,,,,,,,,,
+11,Gadus,morhua,NEFSC-TRAC-CERT,NEFSC-TRAC-CERT_morhua_GB,1,1,1,0.18,GB 5Ze Gadus morhua.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+12,Gadus,morhua,NEFSC-SAW,NEFSC-SAW_morhua_GOM,1,1,1,0.18,GOM Gadus morhua.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+13,Gadus,morhua,NEFSC-GARMIII,NEFSC-GARMIII_morhua_GB,1,1,1,0.18,5Z Gadus morhua.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+14,Melanogrammus,aeglefinus,NEFSC-GARMIII,NEFSC-GARMIII_aeglefinus_5Y,1,1,1,0.46,GOM Melanogrammus aeglefinus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+15,Melanogrammus,aeglefinus,CERT-TRAC,CERT-TRAC_aeglefinus_GB,1,1,1,0.39,GB Melanogrammus aeglefinus.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+16,Scomber,scombrus,NEFSC,NEFSC_scombrus_NWA,1,1,1,0.26,NWA Scomber scombrus.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+17,Stenotomus,chrysops,NEFSC-SAW,NEFSC-SAW_chrysops_USATL,1,1,1,0.177,USATL Stenotomus chrysops,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+18,Pollachius,virens,NEFSC,NEFSC_ virens_5YZ,1,1,1,0.25,GB Pollachius virenus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+19,Hippoglossoides,platessoides,NEFSC,NEFSC_platessoides_5YZ,1,1,1,0.19,GOM  Hippoglossoides platessoides 2019.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+20,Pseudopleuronectes,americanus,NEFSC,NEFSC_ americanus_5Z,1,1,1,0.42,GB Pseudopleuronectes americanus.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+21,Limanda,ferruginea,DFO-NEFSC,DFO-NEFSC_ferruginea_GB,0,1,0,0.254,GB Limada ferrugina.pdf,N/A,Table A2,N/A,N/A,N/A,N/A,N/A,DFO-NEFSC_Limada_ferrugina_2023.pdf,Not full version of assessment; unable to find this
+22,Limanda,ferruginea,NEFSC-GARMIII,"NEFSC-GARMIII_ferruginea_SNE, MA",1,1,1,0.254,SNE MA Limada ferrugina.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+23,Urophycis,tenuis,NEFSC-GARMIII,"NEFSC-GARMIII_tenuis_GOM, GB",1,1,1,0.13,"GOM,GB Urophycis tenuis.pdf ",N/A,N/A,N/A,N/A,N/A,N/A,N/A,Could not find full version of assessment,
+24,Paralichthys,dentatus,NEFSC-GARMIII,NEFSC-GARMIII_dentatus_MA,1,1,1,0.309,North Car Paralichthys dentatus.pdf,Table A32,Table A33,Page 68,Table A86,Table A88,N/A,Table A87,GOM_CHATT_Flounder_Bass_2019.pdf,
+25,Morone,saxatilis,NEFSC-GARMIII,"NEFSC-GARMIII_saxatilis_GOM, CHATT",1,1,1,NA,GOM CHATT Morone saxatilis.pdf,Tables B6.32 and B6.33,B6.34,Page 540,Page 539 (females only),Table B7.10,Tables B7.16 and B7.17,Tables B7.14 and B7.15,GOM_CHATT_Flounder_Bass_2019.pdf,
+26,Glyptocephalus,cynoglossus,NEFSC-GARMIII,NEFSC-GARMIII_cynoglossus_5Y,1,1,1,0.2,"MAINE, NH Glyptocephalus cynoglossus.pdf",N/A,N/A,N/A,N/A,N/A,N/A,N/A,No new full assessments since original document,
+27,Gadus,macrocephalus,AFSC,AFSC_macrocephalus_GOA,1,0,0,0.69,GOA Gadus macrocephalus.pdf,Figure 2.19 (?),N/A,Page 3,Page 21 (?),N/A (FM per year in Table 2.22),Table 2.20,Table 2.20,GOA_Gadus_macrocephalus_2022.pdf,
+28,Gadus,macrocephalus,AFSC,AFSC_macrocephalus_AL to (AI),1,0,1,0.34,AI Gadus macrocephalus.pdf,N/A,N/A,Table 2A.18,Table 2A.16,N/A,Table 2A.22,Table 2A.23,AI_Gadus_macrocephalus_2023.pdf,
+29,Gadus,macrocephalus,AFSC,AFSC_ macrocephalus_BSAI,1,1,1,0.34,ESB Gadus macrocephalus.pdf,N/A,N/A,Page 3,Page 19 (?),N/A (FM per year in Table 2.28),Table 2.26,Table 2.25 (females only),ESB_Gadus_macrocephalus_2022.pdf,Catch.x and weight.x not in original document
+30,Theragra,chalcogramma,AFSC,AFSC_chalcogramma_EBS,1,1,0,0.543,ESB Theragra chalcogramma.pdf,Table 25 ,Table 13 ,Page 23,Page 23,Figure 60,Table 26,Table 26,EBS_Gadus_chalcogrammus_2023.pdf,Different latin name in this report 
+31,Theragra,chalcogramma,AFSC,AFSC_chalcogramma_GOA,1,1,0,0.285,GOA Theragra chalcogramma.pdf,Table 1.5,Table 1.16 (?),Table 1.14,Table 1.15,N/A (FM was used to produce Figure 1.39),Table 1.21,Table 1.21,GOA_Gadus_chalcogrammus_2022.pdf,No FM in original report. Different latin name in this report 
+32,Theragra,chalcogramma,AFSC,AFSC_chalcogramma_AI,1,1,0,0.34,AI Theragra chalcogrammus.pdf,Tables 1A.2 AND 1A.11,Table 1A.6,Table 1A.15,Table 1A.14,N/A (FM per year in Table 1A.23),Table 1A.19,Table 1A.19 (females only),BSAI_Gadus_chalcogrammus_2022.pdf,Different latin name in this report 
+33,Pleurogrammus,monopterygius,AFSC,AFSC_monopterygius_BSAI,1,1,0,0.468,BSAI Pleurogrammus monopterygius.pdf,Table 17.4,Table 17.8a,Page 21 ,Table 17.9,N/A (FM per year in Table 17.15),Table 17.13a,Table 17.13a,BSAI_Pleurogrammus_monopterygius_2022.pdf,
+34,Sebastes,alutus,AFSC,AFSC_alutus_BSAI,1,0,0,0.074,BSAI Sebastes alutus.pdf,"Tables 12.1, 12.2 AND 12.14",N/A,Page 2,Page 17,N/A (FM per year in figure 12.25),Table 12.22,Table 12.22,BSAI_Sebastes_alutus_2022.pdf,Weight.x not in original report
+35,Atheresthes,stomias,AFSC,AFSC_stomias_BSAI-Females,1,0,0,0.29,BSAI Atheresthes stomas.pdf,Tables 6.2a-b AND 6.12,Table 6.10,Page 6,Table 6.10,N/A (FM per year for age 9 in Table 6.15),Table 6.13,Table 6.13,BSAI_Atheresthes_stomias_2022.pdf,No FM.x in original document
+36,Atheresthes,stomias,AFSC,AFSC_stomias_BSAI-Males,1,0,0,0.29,BSAI Atheresthes stomas.pdf,Tables 6.2a-b AND 6.12,Table 6.10,Page 6,N/A,N/A (FM per year for age 8 in Table 6.15),Table 6.13,N/A,BSAI_Atheresthes_stomias_2022.pdf,
+37,Pleuronectes,quadrituberculatus,AFSC,AFSC_quadrituberculatus_BSAI-Females,1,0,0,0.19,BSAI Pleuronectes quadrituberculatus.pdf,N/A,N/A,Page 8,Table 10.8,N/A (FM per year in Table 10.11),Table 10.9a (all),Table 10.9a,BSAI_Pleuronectes_ quadrituberculatus_2021.pdf,Catch.x and weight.x not in original file
+38,Pleuronectes,quadrituberculatus,AFSC,AFSC_quadrituberculatus_BSAI-males,1,0,0,0.19,BSAI Pleuronectes quadrituberculatus.pdf,N/A,N/A,Page 8,N/A,N/A (FM per year in Table 10.11),Table 10.9a (all),N/A,BSAI_Pleuronectes_ quadrituberculatus_2021.pdf,Catch.x and weight.x not in original file
+39,Lepidopsetta,polyxystra,AFSC,AFSC_polyxystra_EEBSAI-Females,1,1,1,0.26,BSAI Lepidopsetta polyxystra.pdf,Table 8.4,Table 8.7,Table 8.13 (all),Table 8.8,Table 8.20,Table 8.15 (all),Table 8.15,BSAI_Lepidopsetta_polyxystra_2018.pdf,
+40,Lepidopsetta,polyxystra,AFSC,AFSC_polyxystra_EEBSAI-Males,1,1,1,0.26,BSAI Lepidopsetta polyxystra.pdf,Table 8.4,Table 8.7,Table 8.13 (all),N/A,Table 8.20,Table 8.15 (all),N/A,BSAI_Lepidopsetta_polyxystra_2018.pdf,
+41,Limanda,aspera,AFSC,AFSC_ aspera_EEBSAI,1,1,1,0.13,BSAI Limada aspera.pdf,Table 4.4,Tables 4.12 (females) AND 4.13 (males),Table 4.16 (?),Table 4.7,N/A (FM per year in Table 4.17),Table 4.9,Table 4.18 (females only),BSAI_Limada_aspera_2023.pdf,
+42,Gadus,morhua,ICES-WGBFAS,ICES-WGBFAS_morhua_BS,0,1,0,NA,BS gadus morhua.pdf,Table 2.2.6,Table 2.2.8,Page 87,Table 2.2.9,N/A,Table 2.2.11,Table 2.211,WGBFAS_report_2024.pdf,Does this correspond to Kattegat cod (subdivsison 21)? No FM in original document
+43,Gadus,morhua,ICES-WGBFAS,ICES-WGBFAS_morhua_BS 25-32,0,1,0,NA,WGBFAS report 2015.pdf,N/A,N/A,Table 2.1.9,Table 2.1.7 (?),Table 2.1.13,N/A,Table 2.1.11,WGBFAS_report_2024.pdf,Now subdivisions 24-32. No Catch.x or Weight.x in original or subsequent reports
+44,Gadus,morhua,ICES-WGBFAS,"ICES-WGBFAS_morhua_WBS,25-32",1,1,1,NA,BS gadus morhua.pdf,Table 2.3.15,Table 2.3.19,Table 2.3.21,Table 2.3.20,Table 2.3.25,Table 2.3.23,Table 2.3.23,WGBFAS_report_2024.pdf,Unclear if this stock is in 25-32; says 22-23 Western Bering Sea. Is this the correct stock?
+45,Clupea,harengus,ICES-WGBFAS,"ICES-WGBFAS_ harengus_BS 25-29,32",1,1,1,0.22,WGBFAS report 2015.pdf,Table 4.2.5,Table 4.2.6,Table 4.2.7,Table 4.2.8,Table 4.2.13,Table 4.2.15,Table 4.2.15,WGBFAS_report_2022.pdf,No FM.x in 2023 or 2024 reports
+46,Clupea,harengus,ICES-WGBFAS,ICES-WGBFAS_harengus_BS 28.1,1,1,1,0.32,WGBFAS report 2015.pdf,Table 4.3.2,Table 4.3.4,Page 322,Table 4.3.5,Table 4.3.7,N/A,Table 4.3.9,WGBFAS_report_2024.pdf,
+47,Clupea,harengus,ICES-WGBFAS,ICES-WGBFAS_harengus_BS 30,0,0,0,0.15,WGBFAS report 2015.pdf,Table 4.4.4,Table 4.4.5 (?),Page 355,Table 4.4.6,N/A (average FM per year for ages 3-7 in Table 4.4.7),N/A,Table 4.4.7,WGBFAS_report_2019.pdf,Subdivisions 30 and 31 are now combined. No mention of M in any reports after 2019.
+48,Clupea,harengus,ICES-WGBFAS,ICES-WGBFAS_harengus_BS 31,0,1,0,NA,WGBFAS report 2015.pdf,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Merged with subdivision 30; see above row,
+49,Pleuronectes,platessa,ICES-WGBFAS,ICES-WGBFAS_platessa_BS 24-32,0,1,0,NA,WGBFAS report 2015.pdf,Figure 5.3.4,Figure 5.3.5,Page 405,Page 405,N/A (average Fm per year for ages 2-5 in Table 5.3.10),Table 5.3.10,Table 5.3.10,WGBFAS_report_2023.pdf,2024 report had no FM
+50,Pleuronectes,platessa,ICES-WGBFAS,ICES-WGBFAS_platessa_BS 21-23,0,1,0,0.37,WGBFAS report 2015.pdf,Table 5.2.4h,Table 5.2.4f,Table 5.2.4d,Table 5.2.4b,Table 5.2.6,N/A,Table 5.2.5,WGBFAS_report_2024.pdf,
+51,Sprattus,sprattus,ICES-WGBFAS,ICES-WGBFAS_sprattus_BS 22-32,1,1,1,0.26,WGBFAS report 2015.pdf,Table 7.6,Table 7.7,Table 7.8,Table 7.9,Table 7.19,N/A,Table 7.17,WGBFAS_report_2024.pdf,
+52,Solea,solea,ICES-WGBFAS,ICES-WGBFAS_ solea_NS IIIa 22-24,1,1,1,0.23,WGBFAS report 2015.pdf,Table 6.6,Table 6.7,Page 453,Page 453,Table 6.8,Table 6.10,Table 6.10,WGBFAS_report_2024.pdf,Now subdivsions 20-24
 53,Clupea,harengus,ICES-NWWG,ICES-NWWG_harengus_ICE-summer,0,1,1,0.22,NWWG report 2016.pdf,Table 11.2.2.1,Table 11.2.2.2,Table 11.3.2.1,Table 11.2.2.3,Table 11.3.2.4,N/A,Table 11.3.2.5,NWWG_report_2023.pdf,2024 report did not have FM
 54,Pollachius,virens,ICES-NWWG,ICES-NWWG_virens_FA5a,1,1,0,NA,NWWG report 2016.pdf,Table 8.4,Table 8.5,Page 216,Table 8.6,Table 8.10,N/A,Table 8.8,NWWG_report_2023.pdf,Is this Iceland Grounds saithe? Inputted information for IG5a; could not find FA5a in original or subsequent documents; 2024 version did not have FM
 55,Pollachius,virens,ICES-NWWG,ICES-NWWG_virens_FA5b,1,1,1,0.3,NWWG report 2016.pdf,Table 6.2.2.2,Table 6.2.3.1,Table 6.7.1 (?),Table 6.2.4.1,Table 6.5.1,Table 6.5.3,Table 6.5.3,NWWG_report_2023.pdf,Section pending in 2024 report
@@ -103,10 +103,12 @@
 102,Clupea,harengus,ICES-WGWIDE,"ICES-WGWIDE_ harengus_NEA 1,2,5,4a,14a",1,1,1,0.157,WGWIDE report 2018.pdf,Table 4.4.3.1 (SD?),Table 4.4.4.2,Page 196,Table 4.4.5.1,Table 44.5.1.3,N/A,Table 4.5.1.4,WGWIDE_report_2023.pdf,
 ,,,,,,,,,,,,,,,,,,
 NEW ATLANTIC STOCKS,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
+1a,Clupea,harengus,NEFSC-GARMIII,NEFSC-GERMIII_ harengus_ATL,N/A,N/A,N/A,N/A,N/A,Tables B1-6 to B1-8,Table B1-11,Page 546,Table B1-12,N/A (FM per year in Figure 3),N/A,N/A,GOM_CHATT_Clupea_harengus_2018.pdf,
+2a,Gadus,morhua,NAFO,NAFO_morhua_3M,N/A,N/A,N/A,N/A,N/A,Table 2,Table 5,Table 10,Table 6,Table 8,Table 7,Table 7,NAFO_Gadus_morhua_3M_2024.pdf,
+3a,Gadus,morhua,NAFO,NAFO_morhua_3NO,N/A,N/A,N/A,N/A,N/A,Table 4,Table 23,Page 4,Table 19,Table 22,Table 24,Table 25,NAFO_Gadus_morhua_3NO_2021.pdf,
+4a,Centropristis,striata,SEFSC,SEFSC_striata_SATL,N/A,N/A,N/A,N/A,N/A,Table 14 (?),Table 3,Table 3,Table 3 (female only),Table 13,Table 9,N/A,SEFSC_Contropristis_striata_2023.pdf,
+5a,Thunnus,thynnus,ICCAT,ICCAT_thynnus_EATL_MED,,,,,,Table 1 (page 64) (in ICCAT_Tt_Catch),Table 10,Table 10,Table 10,N/A (Fm per year for ages 2-5 in Table 9),Table 9,Table 9,ICCAT_Thunnus_thynnus_EATL_MED_2022.pdf AND ICCAT_Tt_Catch.pdf,
 ,,,,,,,,,,,,,,,,,,
 NEW PACIFIC STOCKS,,,,,,,,,,,,,,,,,,
+1b,Atheresthes,evermanni,AFSC,AFSC_evermanni_BSAI,N/A,N/A,N/A,N/A,N/A,N/A (?),N/A (?),Page 7,Table 7-4,N/A (FM per year in table 7-9),Table 7-7,Table 7-7,BSAI_Atheresthes_evermanni_2022.pdf,
+2b,Anoplopoma,fimbria,AFSC,AFSC_fimbria_GOA,N/A,N/A,N/A,N/A,N/A,N/A (?),Table 3.12,Page 3,Table 3.12,N/A (FM per year in Table 3.18),Table 3.15,Table 3.18,GOA_Anoplopoma_fimbria_2020.pdf,
